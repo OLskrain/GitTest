@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         TextView textView = findViewById(R.id.goodbye);
         textView.setText("Coodbye Andrey!");
+
+        TextView textView2 = findViewById(R.id.good_mooning);
+        textView2.setText("Доброе утро");
     }
 }
